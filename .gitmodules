@@ -1,0 +1,3 @@
+[submodule "linux_serial"]
+	path = linux_serial
+	url = https://github.com/hu-submodule-1/linux_serial.git
